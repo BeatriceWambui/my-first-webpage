@@ -1,0 +1,16 @@
+h1{
+  color:blue;
+text-align: center;
+}
+p{
+  background-color:lime;
+  font-size: 20px;
+}
+
+ul{
+  font-style: italic;
+}
+ol{
+  font-family: monospace;
+  line-height: normal;
+}

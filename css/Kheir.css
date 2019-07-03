@@ -1,0 +1,9 @@
+html{
+  border: 10px solid black;
+  border-radius: 5px;
+  padding: inherit;
+  background-color:black;
+  color:white;
+  text-align: center;
+  font-size: 25px;
+}
